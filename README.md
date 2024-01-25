@@ -1,16 +1,16 @@
-### Hi there 👋
+## Connect with me:
 
-<!--
-**bricemciver/bricemciver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img align="left" alt="bricemciver | YouTube" width="22px" src="https://cdn.simpleicons.org/youtube/black/white" />][youtube]
+[<img align="left" alt="bricemciver | Twitter" width="22px" src="https://cdn.simpleicons.org/twitter/black/white" />][twitter]
+[<img align="left" alt="bricemciver | LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin/black/white" />][linkedin]
+[<img align="left" alt="bricemciver | Instagram" width="22px" src="https://cdn.simpleicons.org/instagram/black/white" />][instagram]
+<br />
 
-Here are some ideas to get you started:
+## GitHub Stats:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="left" alt="bricemciver's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bricemciver&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
+[twitter]: https://twitter.com/bricemciver
+[youtube]: https://youtube.com/bricemciver
+[instagram]: https://instagram.com/bricemciver
+[linkedin]: https://linkedin.com/in/bricemciver
